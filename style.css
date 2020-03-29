@@ -1,0 +1,18 @@
+ul{
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+il{
+
+  width: 200px;
+  height: 200px;
+  font-size: 100pt;
+  font-family: sans-serif;
+  background-color: lightblue;
+  margin: 10px;
+  list-style: none;
+  text-align: center;
+  }
